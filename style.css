@@ -27,14 +27,14 @@ section div {
 .lg-box{
     width: 90%;
     height: 600px;
-    background: orange;
+    background: orangered;
     border: 3px solid black;
 }
 
 .sm-box{
     width: 90%;
     height: 300px;
-    background: orange;
+    background: orangered;
     border: 3px solid black;
 }
 
